@@ -1,6 +1,6 @@
-# Uber Clone - MERN Stack 🚗
+#Ride Booking  Application - MERN Stack 🚗
 
-Welcome to the Uber Clone project! A ride-booking application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This app offers features like real-time ride tracking, user authentication, and a responsive UI.
+Welcome to  A ride-booking application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This app offers features like real-time ride tracking, user authentication, and a responsive UI.
 
 ## Features 🌟
 
